@@ -1,0 +1,34 @@
+[
+    {
+      "ServiceName":"Jewellery Software",
+      "urlname":"JewellerySoftware",
+      "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/jew-soft.jpg",
+      "Home_desc":"Sharaan Infosystems is a leading provider of Jewellery Management Software. We are specialised in developing Application Software with new age technology and tools.",
+      "banner":"https://sharaaninfo.com/images/Services/banner/JewllerySoft.jpg",
+      "banner2":"https://sharaaninfo.com/images/Services/banner/JewllerySoft-mob.jpg"
+    },
+    {
+      "ServiceName":"eCommerce",
+      "urlname":"eCommerce",
+      "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/eComm.jpg",
+      "Home_desc":"Sharaan Infosystems have the skilled team to provide eCommerce solution for varied deployment platforms.",
+      "banner":"https://sharaaninfo.com/images/Services/banner/eComm.jpg",
+      "banner2":"https://sharaaninfo.com/images/Services/banner/eComm-mob.jpg"
+    },
+    {
+      "ServiceName":"Mobile Apps",
+      "urlname":"MobileApps",
+      "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/mob-app.jpg",
+      "Home_desc":"Sharaan Infosystems has been strong in the Mobile Application Development for Enterprises. We are the early entrants in the field of development of applications for the smart phones.",
+      "banner":"https://sharaaninfo.com/images/Services/banner/MobileApps.jpg",
+      "banner2":"https://sharaaninfo.com/images/Services/banner/MobileApps-mob.jpg"
+    },
+    {
+      "ServiceName":"Custom Web Development",
+      "urlname":"CustomWebDevelopment",
+      "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/web-dev.jpg",
+      "Home_desc":"We always try to find the most efficient and cost effective solution for our customers offering them custom website development.",
+      "banner":"https://sharaaninfo.com/images/Services/banner/WebDev.jpg",
+      "banner2":"https://sharaaninfo.com/images/Services/banner/WebDev-mob.jpg"
+    }
+  ]

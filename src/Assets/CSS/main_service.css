@@ -1,0 +1,50 @@
+.main_services{
+  padding:50px 10% 0 10%;
+}
+
+.service-card{
+  border-radius: 10px;
+  margin-top:30px;
+}
+
+.service-img{
+  width: 100%;
+  border-radius: 10px;
+  border:1px solid black;
+  box-shadow: 10px 5px 20px black;
+}
+
+.service-desc{
+  top:0;
+  opacity: 0;
+  position:absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  width:93%;
+  height:100%;
+  border-radius: 10px;
+  transition: opacity 0.2s linear;
+  color:white;
+  display:flex;
+  align-items: center;
+  cursor:pointer;
+}
+
+.service-desc:hover{
+  opacity: 1;
+}
+.service-imgcont{
+  width:90%;
+  position: relative;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .main_services{
+    padding:100px 10% 0 10%;
+  }  
+
+  .service-imgcont{
+    width:100%;
+    position: relative;
+  }
+}

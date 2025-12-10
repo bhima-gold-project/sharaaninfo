@@ -1,0 +1,547 @@
+[
+  {
+    "ProdName": "GiftCard",
+    "Banner": "https://sharaaninfo.com/images/banner/giftcard.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/giftcard-mob.jpg",
+    "Desc": "Online gift voucher certificate & card management software system. We’re the gift voucher management system designed to increase gift voucher revenue, simplify processes and improve cash flows.",
+    "Features": [
+      {
+        "feature": "Can be either Physical (Printed) or Digital(emailed) card. "
+      },
+      {
+        "feature": "Can be sold and redeemed across Stores / on e-Commerce portal / through business partners."
+      },
+      {
+        "feature": "Enables management of Promotional free gift cards with specific business conditions."
+      },
+      {
+        "feature": "Enables easy integration with third party applications."
+      },
+      {
+        "feature": "Highly secured system with Pin & barcoded cards with multiple levels of security."
+      },
+      {
+        "feature": "Can be deployed for any retail vertical (not just Jewellery) "
+      }
+       
+      
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Misc.pdf"
+  },
+  {
+    "ProdName": "Magna",
+    "Banner": "https://sharaaninfo.com/images/banner/magna.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/magna-mob.jpg",
+    "Desc": "It is the most ideal application for Jewellery Retailers. Magna, the PoS platform is exhaustive with modules to cover business operations of jewellery industry. What sets it apart though is its fluidity to accommodate requirements of varied business types. While the generality of the processes is the platform, the ease of customization embodies our understanding of the nuances & our expertise in these business processes. It takes the least turnaround time to develop customized applications even for the most complex business requirements. It is used for tracking the movement of Inventory (both, new gold and old gold, stones, fixed price items like gift/decorative items, watches, etc.) and Cash across all the counters. It also captures the processing of old gold, accounting for losses at every stage. The application encompasses all the transactions with suppliers making it a single platform at the back office for keeping a tight vigil on the core business activity. It can also be customized for Gift box and other packing materials’ inventory management and automated stock control system. Magna-Premium has a Central Processing Facility module, which is ideal for corporate Integration for big Jewellery Retailers with multiple, multi-locational branches. Magna-Premium provides for centralised procurement, barcoding, inter-branch stock tracking and an exhaustive Management Information on the operations of the company at various branches in near to real time basis. A dash board for monitoring activities and transactions of all the Branches on a single screen is an user’s delight.",
+    "Features": [
+      {
+        "feature": "Built in industry best–practices:Constant innovation keeps us upto date with the latest in the industry & hence our solutions come with industry best practices."
+      },
+      {
+        "feature": "BI & Analytics: Capturing data is not sufficient. The times need analysis. Configured to capture business data and publish critical reports, our solutions are an analyst’s dream, providing useful and structured data for analysis, deep dive and informed action."
+      },
+      {
+        "feature": "CRM & Loyalty programme: This feature helps any enterprise to Reduce customer churn, Tap into unexplored market segments, Understand reasons for migration of customers, Build intelligence into customer base & data and Pursue fence-sitting customers aggressively."
+      },
+      {
+        "feature": "Exporting data to Tally: Automatic export of data from PoS application to Tally makes accounting very simple since Tally is a widely accepted accounting platform among Auditors."
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Magna_Login_Page.jpg",
+        "desc": "Magna Login Page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Old_Gold_Purchase_(Customer_Purchase).JPG",
+        "desc": "Old Gold Purchase (Customer Purchase)"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Order.JPG",
+        "desc": "New Order page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Product_Tree.JPG",
+        "desc": "Product Tree"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/GS_Stock.JPG",
+        "desc": "GS Stock page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Sales_Billing.JPG",
+        "desc": "Sales Billing page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/magna/Sales_Return.JPG",
+        "desc": "Sales Return page"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Magna Vrudhi Brochure.pdf"
+  },
+  {
+    "ProdName": "Vrudhi",
+    "Banner": "https://sharaaninfo.com/images/banner/vrudhi.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/vrudhi-mob.jpg",
+    "Desc": "This is one of the most popular applications of Sharaan Infosystems. This is for Jewellers and Consumer durable / white goods resellers for managing all the activities of their Savings Scheme or Chit system. This is integrated with our PoS application and can easily be integrated with any other PoS / Financial Accounting system. The features offered by this application are quite enormous. It provides for features like passbook printing, Photo ID card printing, web access to customers, web based payments etc. “Vrudhi” provides for access to members’ accounts of different branches thus allowing flexibility in accepting installment payment or chit closure of members across the organization. This application is now widely used by both Jewellers and consumer durable goods resellers. Combined with the another of our flagship software “Vrudhi on Mobile”, “Vrudhi” will enhance the sales volume and customer base of the organisation. For Jewellers, “Vrudhi” can handle both fixed monthly installment amount and fixed monthly gold weight (variable installment amount). Accordingly, it accumulates either rupees or gold weight to the Savings accounts of the account holder.",
+    "Features": [
+      {
+        "feature": "Centralized database for transactions of multiple branches."
+      },
+      {
+        "feature": "Manages inter-branch payments and closures."
+      },
+      {
+        "feature": "Provides for accumulation of gold units / cash."
+      },
+      {
+        "feature": "Allows for printing of membership cards."
+      },
+      {
+        "feature": "Tight integration with PoS application."
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Magna Vrudhi Brochure.pdf"
+  },
+  {
+    "ProdName": "Digicat",
+    "Banner": "https://sharaaninfo.com/images/banner/digicat.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/digicat-mob.jpg",
+    "Desc": "A trendy tool for the jewellery Manufactures, Wholesalers and Retailers to showcase elegant designs, Digicat is the digital / electronic catalogue application for trading enterprises in this electronic era. Though this electronic Catalogue is initially designed for the Jewellery retailers and wholesalers, it is being used as a e-catalogue by multiple industry verticals.",
+    "Features": [
+      {
+        "feature": "This application is used on tablet PCs and smart phones. Unlike the printed catalogues, this application can store lakhs of designs with all their attributes like gross weight, stone weight, stock, expected available date (if not in stock) etc. The DigiCat data is real time perfects."
+      },
+      {
+        "feature": "It’s database is centrally, single point administered with complete control over the transactions across the globe. This has integrated rich features like automated process flow (like estimation approval), shopping cart, barcode tracking etc."
+      },
+      {
+        "feature": "Since this can be linked to the Manufacturing ERP or Retail PoS applications, any design which gets into such ERP/PoS database is instantly available on the DigiCat. So, one need not reprint the costly conventional catalogues for adding new designs or for removing obsolete designs. Transactions like order bookings, estimations can be done from DigiCat application."
+      },
+      {
+        "feature": "Soft copy brochures in PDF format can be generated from the DigiCat database for digital distribution like email campaigns etc. Customers can also be allowed to browse the DigiCat from their smart phones inside the outlet’s Wi-fi network and can select a design. DigiCat helps to generate more order bookings by showcasing even the no-stock item designs in retail outlets. DigiCat is very compact to carry and showcase. It reflects the technical superiority of the enterprise resulting in enhanced customer goodwill."
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Digicat Brochure.pdf"
+  },
+  {
+    "ProdName": "Magenta",
+    "Banner": "https://sharaaninfo.com/images/banner/magenta.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/magenta-mob.jpg",
+    "Desc": "Jewellery wholesale trading business requires thorough monitoring, accounting and analysis to be competitive. A proper sales analysis would help to decide the right product mix, reduces the idle stock, quickens stock movements, improves the delivery cycle time and improves the margins. Magenta is the tailored software solution for the jewellery wholesale trading industry. It provides all the business requirements of jewellery wholesale industry.",
+    "Features": [
+      {
+        "feature": "Dealer purchase with pre-blanket agreement with all customers."
+      },
+      {
+        "feature": "Dealer purchase return with metal accounting."
+      },
+      {
+        "feature": "Supplier-wise cash & metal ledger report."
+      },
+      {
+        "feature": "Age wise supplier report (balance payment payable)."
+      },
+      {
+        "feature": "Advance metal & cash payment to supplier against purchase."
+      },
+      {
+        "feature": "Customer Approval issue and Receipt with accepted item direct billing."
+      },
+      {
+        "feature": "Sales return with barcode and direct link to customer ledger updating for maintaining metal balance & amount balance."
+      },
+      {
+        "feature": "Metal Profit & Loss account."
+      },
+      {
+        "feature": "Optional Tally integration."
+      },
+      {
+        "feature": "Optional mobile based cataloguing & field order booking application integration."
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Magenta Brochure.pdf"
+  },
+  {
+    "ProdName": "Tryon",
+    "Banner": "https://sharaaninfo.com/images/banner/tryon.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/tryon-mob.jpg",
+    "Desc": "Virtual trial of jewellery both in stores or e-Commerce websites. Virtual try-on technology enables consumers to see how certain products look on them before they actually buy the item.",
+    "Features": [
+      {
+        "feature": "Can be used at Store or on e-Commerce Portal."
+      },
+      {
+        "feature": "Helps the customers try the jewellery items virtually before buying (Helps reduce Sales returns / Exchanges later on)."
+      },
+      {
+        "feature": "Helps customers try Out-of-stock jewellery items (Helps improve selling probability & reduce inventory carrying cost)."
+      },
+      {
+        "feature": "Helps achieve contact-less selling (Improves sales during restricted people movement due to pandemic)."
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": ""
+  },
+  {
+    "ProdName": "PAS",
+    "Banner": "https://sharaaninfo.com/images/banner/PAS.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/PAS-mob.jpg",
+    "Desc": "Payment approval workflows are a common business practice that requires a second or third party from inside the company to validate the request for payment before the finance, accounting or Accounts Payable (AP) team actually sends out the money.",
+    "Features": [
+      {
+        "feature": "Helps track / monitor payment approvals."
+      },
+      {
+        "feature": "Enables configuration of custom Work flow based on the payment type & payment amount."
+      },
+      {
+        "feature": "Exercise better control (checks and balances) on operations."
+      },
+      {
+        "feature": "Easy integration with other systems for proper accounting."
+      },
+      {
+        "feature": "Better management & tracking of budgetary allocations."
+      },
+      {
+        "feature": "Can be deployed for any retail vertical (not just Jewellery)"
+      }
+    ],
+    "image": "https://www.sharaaninfo.com/images/basic_img/giftcard.png",
+    "Slideshow": [
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/home.jpg",
+        "desc": "Home page of our application"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/cust_details.jpg",
+        "desc": "Customer Details page"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_issue.jpg",
+        "desc": "Issuing of Giftcard"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/giftcard_report.jpg",
+        "desc": "Giftcard report"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/promo_list.jpg",
+        "desc": "List of configarable promos"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/issue_lot.jpg",
+        "desc": "Issuing the lots of giftcard from central branch to sub branchs"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/admin_add_company_details.jpg",
+        "desc": "Admin portal to configure the company details"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_branch.jpg",
+        "desc": "Branch configuration by Admin"
+      },
+      {
+        "img": "https://sharaaninfo.com/images/slides/giftcard/Admin_add_new_user.jpg",
+        "desc": "Adding a new internal user by Admin"
+      }
+    ],
+    "Brochure": "https://sharaaninfo.com/Brochures2023/Misc.pdf"
+  },
+  {
+    "ProdName": "eCommerce",
+    "Banner": "https://sharaaninfo.com/images/banner/eComDESKTOP.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/eCom-mob.jpg",
+    "Desc": "Jewellery eCommerce has revolutionized the way people shop for fine and fashion jewellery. It offers convenience, a vast selection, and the ability to compare prices and styles from the comfort of home.",
+    "Features": [
+      {
+        "feature": "Helps launch ecommerce portal quickly."
+      },
+      {
+        "feature": "Enables Digitize products in a simple way with mobile."
+      },
+      {
+        "feature": "Provides for showcasing out-of-stock products too with latest price"
+      },
+      {
+        "feature": "Easy integration with Inventory / Billing system."
+      }
+    ]
+
+  },
+
+    {
+    "ProdName": "CMS",
+    "Banner": "https://sharaaninfo.com/images/banner/cms.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/cms-mob.jpg",
+    "Desc": "Campaign management system: Application for efficient, scalable Campaign management",
+    "Features": [
+      {
+        "feature": "Tool to plan, monitor and manage Campaigns, Activities, Billboards."
+      },
+      {
+        "feature": "Collect, collat and segregate data points across the regions."
+      },
+      {
+        "feature": "Measure campaign performance effectively."
+      },
+      {
+        "feature": "Provides Mobile App to track assets, activities and real time reporting."
+      },
+      {
+        "feature": "Ensures better return on Ad spend & reduces Customer acquisition cost."
+      }
+    ]
+  },
+  {
+    "ProdName": "Jewelmold",
+    "Banner": "https://sharaaninfo.com/images/banner/jewelmold.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/jewelmold-mob.jpg",
+    "Desc": "Jewelmold is a jewellery manufacturing application",
+    "Features": [
+      {
+        "feature": "Automation of operations of Design, Sales, Planning,Stors, Production and Dispatch departments."
+      },
+      {
+        "feature": "Inventory management of Raw Materials, Semi finished goods(WIP), Finished Goods and Scrap."
+      },
+      {
+        "feature": "Product cataloguing."
+      },
+      {
+        "feature": "Order Management."
+      },
+      {
+        "feature": "Detailed Supplier ledger and Customer ledger maintenance."
+      }
+    ]
+  },
+  {
+    "ProdName": "OCB",
+    "Banner": "https://sharaaninfo.com/images/banner/ocb.jpg",
+    "Banner2": "https://sharaaninfo.com/images/banner/ocb-mob.jpg",
+    "Desc": "Omni Channel Business",
+    "Features": [
+      {
+        "feature": "Enables achieve real-time Omni channel presence(Maximize sales with minimum stock)."
+      },
+      {
+        "feature": "Enables display of store inventory across multiple Marketplaces(viz., Amazon / Flipkart / eCom Portal) in real time."
+      },
+      {
+        "feature": "Provides for asy updat of gold rate changes across Marketplaces."
+      },
+      {
+        "feature": "Provides for easy configuration of diffrent product prices across Marketplaces."
+      },
+      {
+        "feature": "Enables auto stock update across Marketplaces in near to real time ."
+      },
+      {
+        "feature": "Easy configuaration of Out-of-stock items ."
+      },
+      {
+        "feature": "Provides for End-to-end tracking of Omni channel trasactions."
+      }
+    ]
+  }
+
+]

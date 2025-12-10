@@ -1,0 +1,41 @@
+[
+  {
+    "ServiceName":"Integration Services",
+    "ServiceHeading":"Integration Services",
+    "urlname":"IntegrationServices",
+    "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/jew-soft.jpg",
+    "Home_desc":"Sharaan infosystems is specialised in implementing cross-platform integration with heterogeneous business applications either on-premise hosted or cloud hosted.",
+    "banner":"https://sharaaninfo.com/images/Services/banner/omni.jpg",
+    "banner2":"https://sharaaninfo.com/images/Services/banner/omni-mob.jpg"
+  },
+  {
+    "ServiceName":"eCommerce",
+    "ServiceHeading":"eCommerce",
+    "urlname":"eCommerce",
+    "Home_image":"https://sharaaninfo.com/images/Services/Homepage_imgs/eComm.jpg",
+    "Home_desc":"Sharaan Infosystems have the skilled team to provide eCommerce solution for varied deployment platforms.",
+    "banner":"https://sharaaninfo.com/images/Services/banner/eComm.jpg",
+    "banner2":"https://sharaaninfo.com/images/Services/banner/eComm-mob.jpg"
+  },
+  {
+    "ServiceName":"Mobile Apps",
+    "ServiceHeading":"Mobile Application Development",
+    "urlname":"MobileApps",
+    "Home_desc":"Sharaan Infosystems has been strong in the Mobile Application Development for Enterprises. We are the early entrants in the field of development of applications for the smart phones.",
+    "banner":"https://sharaaninfo.com/images/Services/banner/MobileApps.jpg",
+    "banner2":"https://sharaaninfo.com/images/Services/banner/MobileApps-mob.jpg"
+  },
+  {
+  "ServiceName": "Odoo Development",
+  "ServiceHeading": "Odoo ERP Development",
+  "urlname": "OdooDevelopment",
+  "Home_image":"/images/Services/banner/odoohome.png",
+  "Home_desc": "We offer complete Odoo ERP implementation and customization for all industry verticals.",
+  "banner": "/images/Services/banner/odoo.png",
+  "banner2": "/images/Services/banner/odoo-mob.jpeg"
+}
+
+
+]
+
+

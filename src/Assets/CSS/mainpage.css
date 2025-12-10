@@ -1,0 +1,167 @@
+body{
+  background-color: aliceblue;
+}
+
+.main_head{
+  background: -webkit-linear-gradient(#2B32B2, #1488CC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family:Poppins;
+  font-weight:600;
+  letter-spacing: 2px;
+  font-size:40px;
+}
+
+.main_head1{
+  background: -webkit-linear-gradient(#2B32B2, #1488CC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family:Poppins;
+  font-weight:600;
+  letter-spacing: 2px;
+  font-size:40px;
+  padding:0 10%;
+}
+
+.main_body{
+  color:#202020;
+  font-family:Karla;
+  font-weight:300;
+  letter-spacing: 1px;
+  font-size:20px;
+  text-align: justify;
+}
+
+.main_body_sm{
+  font-family:Karla;
+  font-weight:400;
+  font-size:15px;
+}
+
+.main_subhead{
+  color:#202020;
+  font-family:Roboto;
+  font-weight:500;
+  letter-spacing: 1.5px;
+  font-size:20px;
+}
+
+.navbar a:hover {
+  cursor:pointer;
+  color: #ad1919;
+}
+
+div:hover{
+  cursor:context-menu;
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 450px) and (max-width: 1050px) {
+  .main_head{
+    background: -webkit-linear-gradient(#2B32B2, #1488CC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:Poppins;
+    font-weight:600;
+    letter-spacing: 2px;
+    font-size:30px;
+  }
+  
+  .main_head1{
+    background: -webkit-linear-gradient(#2B32B2, #1488CC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:Poppins;
+    font-weight:600;
+    letter-spacing: 2px;
+    font-size:30px;
+    padding:0 10%;
+  }
+  
+  .main_body{
+    color:#202020;
+    font-family:Karla;
+    font-weight:300;
+    letter-spacing: 1px;
+    font-size:18px;
+  }
+  
+  .main_body_sm{
+    font-family:Karla;
+    font-weight:400;
+    font-size:12px;
+  }
+  
+  .main_subhead{
+    color:#202020;
+    font-family:Roboto;
+    font-weight:500;
+    letter-spacing: 1.5px;
+    font-size:18px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 450px) {
+  .main_head{
+    background: -webkit-linear-gradient(#2B32B2, #1488CC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:Poppins;
+    font-weight:600;
+    letter-spacing: 2px;
+    font-size:25px;
+  }
+  
+  .main_head1{
+    background: -webkit-linear-gradient(#2B32B2, #1488CC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family:Poppins;
+    font-weight:600;
+    letter-spacing: 2px;
+    font-size:25px;
+    padding:0 10%;
+  }
+  
+  .main_body{
+    color:#202020;
+    font-family:Karla;
+    font-weight:300;
+    letter-spacing: 1px;
+    font-size:15px;
+  }
+  
+  .main_body_sm{
+    font-family:Karla;
+    font-weight:400;
+    font-size:12px;
+  }
+  
+  .main_subhead{
+    color:#202020;
+    font-family:Roboto;
+    font-weight:500;
+    letter-spacing: 1.5px;
+    font-size:15px;
+  }
+}

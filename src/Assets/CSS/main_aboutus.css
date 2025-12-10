@@ -1,0 +1,12 @@
+.main_about{
+  height:100%;
+  width:100%;
+  padding:50px 10%;
+}
+
+@media only screen and (max-width: 450px) {
+  .main_about{
+    padding:50px 5%;
+  }
+}
+
